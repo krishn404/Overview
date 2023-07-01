@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Krishn-Kant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishn404/)](https://www.linkedin.com/in/krishn404/) 
+<a href="https://linkedin.com/in/krishn404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
 [![Gmail Badge](https://img.shields.io/badge/-maharshikrishnakant@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maharshikrishnakant@gmail.com)](mailto:maharshikrishnakant@gmail.com) 
 
 
