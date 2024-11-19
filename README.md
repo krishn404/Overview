@@ -18,4 +18,4 @@
 <h2 align="left">Currently Listening to</h2>
 
 ###
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eq3547p3drfawz256uxy4erspy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eq3547p3drfawz256uxy4erspy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color_cover=false&bar_color=53b14f)]
