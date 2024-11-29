@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating silly stuffs<br>📚 Currently pursuing my undergrade degree.<br>🎯 Still thinking what to build<br>🎲 Fun fact:I write code,design stuff,produce some music and  might be listing to some music too</p>
+<p align="left">✨ Creating silly stuffs<br>📚 Currently pursuing my undergrade degree.<br>🎯 Still thinking what to build<br>🎲 Fun fact:I write code,design stuff,produce some music and  might be Listening to some music too</p>
 
 ###
 ###
